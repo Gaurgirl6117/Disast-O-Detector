@@ -6,7 +6,7 @@ Planning the pre-disaster things like identifying the number of construction sit
 Identifying the medicals and hospitals for treatment nearby: One can identify the nearby hospitals for the treatment of the victims.
 Segmenting the various terrains to discover more settlement areas which helps in urban/rural planning.
 # INPUT
-Different Satellite Images
+Different Satellite and Drone Photography Images
 
 # OUTPUT 
 Stitched & segmented maps of various areas categorised into different terrains along with the disaster maps.
@@ -15,5 +15,4 @@ Stitched & segmented maps of various areas categorised into different terrains a
 The Government, Urban/Rural Planners can be benefited by this as it gives them a better idea of everything along with very accurate data.
 
 
-PROJECT 2
 
